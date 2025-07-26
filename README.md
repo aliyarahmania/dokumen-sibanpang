@@ -1,5 +1,5 @@
 # 🗺️ Sistem Informasi Geografis untuk Pemetaan dan Analisis Perkembangan Distribusi Bantuan Pangan di Indonesia dengan Metode Unified Process
-Repositori ini berisi dokumen pendukung yang digunakan dalam penyusunan tugas akhir, khususnya pada aspek analisis data dan pengujian sistem.
+Repositori ini berisi dokumen pendukung yang digunakan dalam penyusunan tugas akhir, khususnya pada aspek analisis data distribusi bantuan pangan di Indonesia 2019-2024 dan pengujian sistem.
 
 ## 📂 Struktur Folder
 ### 1. `analisis-data/`
